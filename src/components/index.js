@@ -1,8 +1,8 @@
 export { default as Navbar } from "./Navbar"; 
-export { default as Exchanges } from "./exchanges"; 
-export { default as Cryptocurrencies } from "./cryptocurrencies"; 
+export { default as Exchanges } from "./Exchanges"; 
+export { default as Cryptocurrencies } from "./Cryptocurrencies"; 
 export { default as HomePage } from "./Homepage";
-export { default as News } from "./news"; 
-export { default as CryptoDetails } from "./cryptoDetails"; 
+export { default as News } from "./News"; 
+export { default as CryptoDetails } from "./CryptoDetails"; 
 export { Switch } from "react-router-dom";
    
